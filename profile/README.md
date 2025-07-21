@@ -36,7 +36,7 @@ We recommend going through the [Leptos Book](https://book.leptos.dev) to get sta
 No framework is complete without a rich ecosystem of libraries and tools. Here are some of the libraries and tools that are part of the Leptos ecosystem:
 
 - [leptos-use](https://leptos-use.rs): A collection of hooks for building reusable logic in Leptos.
-- [leptos-query](https://github.com/gaucho-labs/leptos-query): Async state management for Leptos, providing simplified data fetching, integrated reactivity, SSR support, and smart cache management, inspired by TanStack Query.
+- [leptos-fetch](https://github.com/zakstucke/leptos-fetch): Async state management for Leptos, providing simplified data fetching, integrated reactivity, SSR support, and smart cache management, inspired by TanStack Query.
 - [thaw-ui](https://thawui.vercel.app/): An easy to use leptos component library.
 - [leptosfmt](https://github.com/bram209/leptosfmt): A formatter for the leptos view! macro.
 
